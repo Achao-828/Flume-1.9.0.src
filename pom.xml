@@ -86,7 +86,7 @@ limitations under the License.
     <log4j-extras.version>1.1</log4j-extras.version>
     <log4j-log4j.version>1.2.17</log4j-log4j.version>
     <mapdb.version>0.9.9</mapdb.version>
-    <mina.version>2.0.4</mina.version>
+    <mina.version>2.0.22</mina.version>
     <mockito.version>1.9.0</mockito.version>
     <mvn-antrun-plugin.version>1.8</mvn-antrun-plugin.version>
     <mvn-assembly-plugin.version>3.1.0</mvn-assembly-plugin.version>
